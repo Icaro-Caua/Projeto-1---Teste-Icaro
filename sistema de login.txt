@@ -2,4 +2,6 @@ Nome:
 
 E-mail:
 
+Cidade:
+
 Telefone:
